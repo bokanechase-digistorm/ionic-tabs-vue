@@ -6,7 +6,7 @@
             </ion-toolbar>
         </ion-header>
         <ion-content :fullscreen="true">
-            <ion-button router-link="/tabs/tab2/view">Go To Inner View</ion-button>
+            
         </ion-content>
     </ion-page>
 </template>
